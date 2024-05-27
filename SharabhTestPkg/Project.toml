@@ -1,0 +1,4 @@
+name = "SharabhTestPkg"
+uuid = "fd2af768-abf7-4fce-96aa-83d53dd573f3"
+authors = ["Sharabh Shukla <sharabh2019@gmail.com>"]
+version = "0.1.0"
